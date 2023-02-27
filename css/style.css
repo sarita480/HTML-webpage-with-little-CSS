@@ -1,0 +1,39 @@
+
+    body
+    {
+        background-color:rgb(207, 238, 228);
+    }
+    
+    hr
+    {
+        background-color: white;
+        border-style:dotted none none;
+        border-color: gray;
+        border-width:5px;
+        width: 5%;
+    }
+    h1
+    {
+        
+        color: #66bfbf;
+   /* text-align: center;*/
+        
+    }
+    h3{
+        color: blue;
+        
+    }
+.info-form
+    {
+        margin:15px;
+    }
+    .contact-detail
+    {
+        margin: 15px;;
+    }
+    .name
+    {
+        margin:10px;;
+    }
+    
+    
